@@ -10,3 +10,5 @@ navLinks.forEach(link=>{
         document.body.classList.remove('nav-open');
     })
 })
+
+ /* and end with this is a dummy comment */

@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-/*custom properties , you can change these for your own designs*/
+/*custom properties , yes you can change these for your own designs*/
 :root{
     --ff-primary: 'source sans pro', sans-serif;
     --ff-secondary: 'source code pro', monospace;
